@@ -1,7 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8497881-a194-4afb-af3f-97c74755bed1" name="Default" comment="" />
+    <list default="true" id="a8497881-a194-4afb-af3f-97c74755bed1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/April11/number.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Feb23_2016/GoogleOA1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Feb23_2016/GoogleOA2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Feb23_2016/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/June10/PreOrder$TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/June10/PreOrder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/June10/triangle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar1_2016/DP.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar1_2016/alienDict.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar1_2016/distinctSubSeq.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar1_2016/maxLen$Solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar1_2016/maxLen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar24/ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar24/swapTwoNodesInLinkedList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar26/Point.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar26/firstKlargestElements.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar26/kthSmallestNum$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar26/kthSmallestNum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar26/longestCommonSubSeq.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar26/matchPlayers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar26/maxRectangle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar26/quickSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar26/recursiveFraction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar26/stackSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Mar31/tripadvisor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/May2/samsungOA.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/May24/generateParenthesis.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/May24/happyNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Oct12/ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Oct12/mergeKlist$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Oct12/mergeKlist.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Oct12/mergeSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Oct12/quickSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Oct12/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Oct13/findSubstring.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Oct13/zenefit.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Oct14/textJustistification.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Oct15/mapIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/Oct15/powerSet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class10_recursionII/ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class10_recursionII/Nqueen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class10_recursionII/abreMatching.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class10_recursionII/reverseInPair.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class10_recursionII/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class10_recursionII/spiral1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class10_recursionII/spiral2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class10_recursionII/spiralGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class11/allUniqueChar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class11/diffBit.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class11/hex.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class11/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class12_DPI/array_hopper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class12_DPI/maxProd.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class12_DPI/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class13_DPII/array_hopperII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class13_DPII/editDistance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class13_DPII/largestSquare.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class13_DPII/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class13_DPII/word_break.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class14_DPIII/largest_subarray_sum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class14_DPIII/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class15/largestCross.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class15/largestSubMatrix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class15/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class18/ArrayDeduplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class18/ArrayDeduplication3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class18/ArrayDeduplication4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class18/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class18/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class18/zigZag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class1_sorting/MergeSorter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class1_sorting/QuickSorter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class1_sorting/RainbowSorter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class1_sorting/SelectionSorter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class1_sorting/move0toTheEnd.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class1_sorting/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class21/MergeKSortedArray$Element.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class21/MergeKSortedArray$myComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class21/MergeKSortedArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class21/cuttingWood.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class21/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class21/stringReversal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class24/fourSum$Pair.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class24/fourSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class24/pairI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class24/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class24/subsetII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class24/validParenthesis.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class25/LargestProductOfLength.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class25/longCommonSubstring.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class25/longestCommonSubseq.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class25/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class25/temp$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class25/temp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class25/trapWater.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class25/trapperWaterII$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class25/trapperWaterII$Cell.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class25/trapperWaterII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class26/LRUcache$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class26/LRUcache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class26/interLeave.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class26/kthInTwoArrays.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class26/maxWindow$Element.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class26/maxWindow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class26/median.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class26/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class27/Point.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class27/generateMaze$Dir.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class27/generateMaze.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class27/largestSetPointPositiveSlope$MyComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class27/largestSetPointPositiveSlope.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class27/longestAscendingSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class27/mostPointsOnALine$MyComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class27/mostPointsOnALine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class27/solutIon.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class2_recursion/Fibonacci_Number.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class2_recursion/powerFunct.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class2_recursion/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class4_graphSearch/quickSelector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class4_graphSearch/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class5_heapAndGraphSearch/Bipartite.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class5_heapAndGraphSearch/GraphNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class5_heapAndGraphSearch/kthNumInMatrix$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class5_heapAndGraphSearch/kthNumInMatrix$Cell.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class5_heapAndGraphSearch/kthNumInMatrix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class5_heapAndGraphSearch/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class6_graphSearchII/combinations.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class6_graphSearchII/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class7_hashTableAndString/removeCertainChar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class7_hashTableAndString/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class7_hashTableAndString/topKfreqMap$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class7_hashTableAndString/topKfreqMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class8_stringII/allAnagram.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class8_stringII/decompression.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class8_stringII/longestSubString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class8_stringII/permutation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class8_stringII/solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class8_stringII/stringReorder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/class8_stringII/stringReplacement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/jiuzhangContest/diceSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/jiuzhangContest/minNum$myComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/jiuzhangContest/minNum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Practices/jiuzhangContest/solution.class" afterPath="" />
+    </list>
     <ignored path="Coding-Practices.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -941,12 +1085,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1473125772918</updated>
-      <workItem from="1473125777621" duration="456000" />
+      <workItem from="1473125777621" duration="541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="456000" />
+    <option name="totallyTimeSpent" value="541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="23" width="1276" height="777" extended-state="0" />

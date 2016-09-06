@@ -2,7 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8497881-a194-4afb-af3f-97c74755bed1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Round1/readme.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/GoogleOnSite/package-info.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/April11/number.java" afterPath="$PROJECT_DIR$/src/Round1/April11/number.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Feb23_2016/GoogleOA1.java" afterPath="$PROJECT_DIR$/src/Round1/Feb23_2016/GoogleOA1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Feb23_2016/GoogleOA2.java" afterPath="$PROJECT_DIR$/src/Round1/Feb23_2016/GoogleOA2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/June10/PreOrder.java" afterPath="$PROJECT_DIR$/src/Round1/June10/PreOrder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/June10/triangle.java" afterPath="$PROJECT_DIR$/src/Round1/June10/triangle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Mar1_2016/DP.java" afterPath="$PROJECT_DIR$/src/Round1/Mar1_2016/DP.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Mar1_2016/alienDict.java" afterPath="$PROJECT_DIR$/src/Round1/Mar1_2016/alienDict.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Mar1_2016/distinctSubSeq.java" afterPath="$PROJECT_DIR$/src/Round1/Mar1_2016/distinctSubSeq.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Mar1_2016/maxLen.java" afterPath="$PROJECT_DIR$/src/Round1/Mar1_2016/maxLen.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Mar24/swapTwoNodesInLinkedList.java" afterPath="$PROJECT_DIR$/src/Round1/Mar24/swapTwoNodesInLinkedList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Mar26/firstKlargestElements.java" afterPath="$PROJECT_DIR$/src/Round1/Mar26/firstKlargestElements.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Mar26/kthSmallestNum.java" afterPath="$PROJECT_DIR$/src/Round1/Mar26/kthSmallestNum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Mar26/longestCommonSubSeq.java" afterPath="$PROJECT_DIR$/src/Round1/Mar26/longestCommonSubSeq.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Mar26/matchPlayers.java" afterPath="$PROJECT_DIR$/src/Round1/Mar26/matchPlayers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Mar26/maxRectangle.java" afterPath="$PROJECT_DIR$/src/Round1/Mar26/maxRectangle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Mar26/quickSort.java" afterPath="$PROJECT_DIR$/src/Round1/Mar26/quickSort.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Mar26/recursiveFraction.java" afterPath="$PROJECT_DIR$/src/Round1/Mar26/recursiveFraction.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Mar26/stackSort.java" afterPath="$PROJECT_DIR$/src/Round1/Mar26/stackSort.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Mar31/tripadvisor.java" afterPath="$PROJECT_DIR$/src/Round1/Mar31/tripadvisor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/May2/samsungOA.java" afterPath="$PROJECT_DIR$/src/Round1/May2/samsungOA.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/May24/generateParenthesis.java" afterPath="$PROJECT_DIR$/src/Round1/May24/generateParenthesis.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/May24/happyNumber.java" afterPath="$PROJECT_DIR$/src/Round1/May24/happyNumber.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Oct12/mergeKlist.java" afterPath="$PROJECT_DIR$/src/Round1/Oct12/mergeKlist.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Oct12/mergeSort.java" afterPath="$PROJECT_DIR$/src/Round1/Oct12/mergeSort.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Oct12/quickSort.java" afterPath="$PROJECT_DIR$/src/Round1/Oct12/quickSort.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Oct12/solution.java" afterPath="$PROJECT_DIR$/src/Round1/Oct12/solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Oct13/findSubstring.java" afterPath="$PROJECT_DIR$/src/Round1/Oct13/findSubstring.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Oct13/zenefit.java" afterPath="$PROJECT_DIR$/src/Round1/Oct13/zenefit.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Oct14/textJustistification.java" afterPath="$PROJECT_DIR$/src/Round1/Oct14/textJustistification.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Oct15/mapIterator.java" afterPath="$PROJECT_DIR$/src/Round1/Oct15/mapIterator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Oct15/powerSet.java" afterPath="$PROJECT_DIR$/src/Round1/Oct15/powerSet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jiuzhangContest/diceSum.java" afterPath="$PROJECT_DIR$/src/Contest_Aug/diceSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jiuzhangContest/minNum.java" afterPath="$PROJECT_DIR$/src/Contest_Aug/minNum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jiuzhangContest/solution.java" afterPath="$PROJECT_DIR$/src/Contest_Aug/solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/class25/solution.java" afterPath="$PROJECT_DIR$/src/class25/solution.java" />
     </list>
     <ignored path="Coding-Practices.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,11 +92,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Round1/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -79,6 +126,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Round1/readme.md" />
       </list>
     </option>
   </component>
@@ -139,6 +187,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Coding-Practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Coding-Practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -155,6 +217,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Round1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -892,16 +957,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1473125772918</updated>
-      <workItem from="1473125777621" duration="929000" />
+      <workItem from="1473125777621" duration="1238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="929000" />
+    <option name="totallyTimeSpent" value="1238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="23" width="1276" height="777" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -915,7 +980,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959481" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959481" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -970,6 +1035,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Round1/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
           <folding />
         </state>
       </provider>

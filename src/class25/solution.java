@@ -1,10 +1,5 @@
 package class25;
 
-import java.util.Arrays;
-import java.util.List;
-
-import Mar26.longestCommonSubSeq;
-
 public class solution {
 
     public static void main(String[] args) {

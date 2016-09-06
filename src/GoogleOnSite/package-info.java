@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author jiamingxie
- *
- */
-package GoogleOnSite;
